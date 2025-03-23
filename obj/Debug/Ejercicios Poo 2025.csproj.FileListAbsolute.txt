@@ -1,0 +1,7 @@
+C:\Users\54116\source\repos\Ejercicios Poo 2025\obj\Debug\Ejercicios Poo 2025.csproj.AssemblyReference.cache
+C:\Users\54116\source\repos\Ejercicios Poo 2025\obj\Debug\Ejercicios Poo 2025.csproj.CoreCompileInputs.cache
+C:\Users\54116\source\repos\Ejercicios Poo 2025\bin\Debug\Ejercicios Poo 2025.exe.config
+C:\Users\54116\source\repos\Ejercicios Poo 2025\bin\Debug\Ejercicios Poo 2025.exe
+C:\Users\54116\source\repos\Ejercicios Poo 2025\bin\Debug\Ejercicios Poo 2025.pdb
+C:\Users\54116\source\repos\Ejercicios Poo 2025\obj\Debug\Ejercicios Poo 2025.exe
+C:\Users\54116\source\repos\Ejercicios Poo 2025\obj\Debug\Ejercicios Poo 2025.pdb

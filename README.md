@@ -1,2 +1,1 @@
-# POO_2025
-Ejercicios de POO
+# Ejercicios Poo 2025
